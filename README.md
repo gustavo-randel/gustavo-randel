@@ -1,11 +1,10 @@
-# Hey There! 👋
-**I'm Randel** - I'm a fullstack developer, maker, and designer. I build as much projects as I can to maintain my skills sharp.
+# Olá! 👋
+**Me chamo Randel** - Sou um Engenheiro de Software em formação, desenvolvedor e designer. Crio projetos no tempo livre para manter as minhas habilidades afiadas.
 
-Check out my [portfolio]().
 
-My skills: <br/>
+Minhas skills: <br/>
 
-[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,bootstrap,java,postgres)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=html,css,bootstrap,js,java,postgres)](https://skillicons.dev)<br/>
 
 [![SkillIcons](https://skillicons.dev/icons?i=ae,ps,figma)](https://skillicons.dev)<br/>
 
