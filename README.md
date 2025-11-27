@@ -3,7 +3,7 @@
 
 Check out my [portfolio]().
 
-My skills:
+My skills: <br/>
 [![SkillIcons](https://skillicons.dev/icons?i=js,html,css,bootstrap,java,postgres)](https://skillicons.dev)<br/>
 
 [![SkillIcons](https://skillicons.dev/icons?i=ae,ps,figma)](https://skillicons.dev)<br/>
