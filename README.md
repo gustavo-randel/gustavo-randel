@@ -4,9 +4,15 @@
 
 Minhas skills: <br/>
 
-[![SkillIcons](https://skillicons.dev/icons?i=html,css,bootstrap,js,java,postgres)](https://skillicons.dev)<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,postgres,ae,ps,figma" />
+  </a>
+</p>
 
-[![SkillIcons](https://skillicons.dev/icons?i=ae,ps,figma)](https://skillicons.dev)<br/>
+<!-- [![SkillIcons](https://skillicons.dev/icons?i=html,css,bootstrap,js,java,postgres)](https://skillicons.dev)<br/>
+
+[![SkillIcons](https://skillicons.dev/icons?i=ae,ps,figma)](https://skillicons.dev)<br/> -->
 
 <details>
   <summary>Github Stats ⚡</summary>
