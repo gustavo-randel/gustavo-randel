@@ -6,8 +6,7 @@ Minhas skills: <br/>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,postgres" />
-    <img src="https://skillicons.dev/icons?i=ae,ps,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,java,postgres,ae,ps,figma" />
   </a>
 </p>
 
