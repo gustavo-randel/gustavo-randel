@@ -37,21 +37,14 @@
 
 ## **Recent projects:**
 
-<a href="https://github.com/gustavo-randel/gustavo-randel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavo-randel&repo=gustavo-randel&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
-<a href="https://github.com/gustavo-randel/readme-antigo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavo-randel&repo=readme-antigo&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/gustavo-randel/biblioteca-java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavo-randel&repo=biblioteca-java&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/gustavo-randel/landing-page-evento"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavo-randel&repo=landing-page-evento&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/gustavo-randel/biblioteca-javascript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavo-randel&repo=biblioteca-javascript&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
-<a href="https://github.com/gustavo-randel/azinho-joke"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavo-randel&repo=azinho-joke&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/gustavo-randel/rede-social-dev-prototipo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavo-randel&repo=rede-social-dev-prototipo&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/gustavo-randel/prototipo-cruzeiro-bootstrap"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavo-randel&repo=prototipo-cruzeiro-bootstrap&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/gustavo-randel/projeto-portifolio-italo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavo-randel&repo=projeto-portifolio-italo&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/gustavo-randel/restaurante-inaja-prototipo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavo-randel&repo=restaurante-inaja-prototipo&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
-<a href="https://github.com/gustavo-randel/projeto-android"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavo-randel&repo=projeto-android&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
-<a href="https://github.com/gustavo-randel/projeto-cordel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavo-randel&repo=projeto-cordel&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
-<a href="https://github.com/gustavo-randel/projeto-redes-sociais"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavo-randel&repo=projeto-redes-sociais&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/gustavo-randel/Calculadora"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavo-randel&repo=Calculadora&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
-<a href="https://github.com/gustavo-randel/SafeTour"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gustavo-randel&repo=SafeTour&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 
 ## **You can find me on:**
 
@@ -59,8 +52,8 @@
 
 <p align="left"><a href="https://linkedin.com/in/gustavo-randel"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
 <a href="mailto:randel.dev@hotmail.com"><img src="https://img.shields.io/badge/email-4D4577?logo=gmail&style=for-the-badge&logoColor=F2F2F2"/></a>
-<a href="https://www.npmjs.com/~nick-gabe"><img src="https://img.shields.io/badge/npm-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=npm"/></a>
-<a href="https://codepen.io/nick-gabe"><img src="https://img.shields.io/badge/codepen-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=codepen"/></a>
+<!-- <a href="https://www.npmjs.com/~nick-gabe"><img src="https://img.shields.io/badge/npm-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=npm"/></a>
+<a href="https://codepen.io/nick-gabe"><img src="https://img.shields.io/badge/codepen-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=codepen"/></a> -->
 <img src="https://img.shields.io/badge/randel-4D4577?logo=discord&labelColor=393359&style=for-the-badge&logoColor=F2F2F2"/></p>
 
 ## **Follower of the day**
@@ -71,4 +64,4 @@
 
 <hr>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=gustavo-randel&style=for-the-badge&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&show_icons=true&icon_color=F2F2F2&rank_icon=github"/></p>
+<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=gustavo-randel&style=for-the-badge&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&show_icons=true&icon_color=F2F2F2&rank_icon=github"/></p>
