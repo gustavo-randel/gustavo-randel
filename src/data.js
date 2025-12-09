@@ -4,9 +4,9 @@
 const { colors } = require('./theme');
 
 module.exports = {
-  user: 'nick-gabe',
-  startedProgramming: '9/10/2020',
-  repoQuantity: 6,
+  user: 'gustavo-randel',
+  startedProgramming: '2025',
+  repoQuantity: 18,
   header: {
     styles: {
       align: 'center',
@@ -14,26 +14,17 @@ module.exports = {
       color: colors.lightSecondary.base,
       logoColor: colors.lightSecondary.over,
     },
-    image: {
-      src: 'src/resources/images/nickgabe.png',
-      width: 600,
-    },
-    description: "👋 Heyyy! I'm Nícolas Gabriel, a brazilian programmer.",
+    description: "👋 Heyyy! I'm Gustavo Randel, a brazilian programmer.",
     badges: [
       {
         type: 'badge',
-        name: 'twitter',
-        href: 'https://twitter.com/imnickgabe',
-      },
-      {
-        type: 'badge',
         name: 'linkedin',
-        href: 'https://linkedin.com/in/nickgabe',
+        href: 'https://linkedin.com/in/gustavo-randel',
       },
       {
         type: 'badge',
         name: 'website',
-        href: 'https://nickgabe.vercel.app',
+        href: '',
         logo: 'esri',
       },
       {
@@ -42,7 +33,7 @@ module.exports = {
     ],
   },
   aboutme: {
-    list: ['* Nícolas Gabriel, 20 years', '* Full Stack programmer', '* Currently studying Python'],
+    list: ['* Born in Salvador, 19 years', '* Software Engineer', '* Currently studying Typescript'],
   },
   skillswall: {
     styles: {
@@ -54,45 +45,25 @@ module.exports = {
     randomOrder: true,
     skills: [
       { name: 'JavaScript', isHighlighted: true },
+      {name: 'Vite'},
       { name: 'HTML5' },
       { name: 'Markdown' },
       { name: 'CSS3', isHighlighted: true },
-      { name: 'Python', isHighlighted: true },
-      { name: 'Shell Script', logo: 'gnu-bash' },
       { name: 'React', isHighlighted: true },
       { name: 'React Native', logo: 'react' },
-      { name: 'jQuery' },
       { name: 'SASS' },
-      { name: 'Ant-Design', isHighlighted: true },
-      { name: 'GraphQL' },
-      { name: 'Chakra', logo: 'chakraui' },
       { name: 'Bootstrap' },
       { name: 'Node.JS', isHighlighted: true },
-      { name: 'Jest' },
-      { name: 'Strapi' },
-      { name: 'Express.js', logo: 'express' },
-      { name: 'FastAPI', isHighlighted: true },
-      { name: 'Flask' },
-      { name: 'Styled Components' },
-      { name: 'TailwindCSS', isHighlighted: true },
-      { name: 'Firebase' },
-      { name: 'MongoDB' },
-      { name: 'SQLite' },
       { name: 'TypeScript', isHighlighted: true },
-      { name: 'Netlify' },
       { name: 'Vercel' },
-      { name: 'Heroku' },
       { name: 'Github Pages', logo: 'github' },
       { name: 'Photoshop', logo: 'adobe-photoshop' },
       { name: 'Figma' },
-      { name: 'Storybook' },
       { name: 'NPM' },
       { name: 'Git', isHighlighted: true },
       { name: 'GitHub' },
       { name: 'Visual Studio Code' },
-      { name: 'Docker', isHighlighted: true },
-      { name: 'Jira' },
-      { name: 'GitHub Actions', isHighlighted: true },
+      {name: 'PostgreSQL'}
     ],
   },
   recentworks: {
@@ -113,17 +84,13 @@ module.exports = {
     },
     links: [
       {
-        name: 'twitter',
-        href: 'https://twitter.com/imnickgabe',
-      },
-      {
         name: 'linkedin',
-        href: 'https://linkedin.com/in/nickgabe',
+        href: 'https://linkedin.com/in/gustavo-randel',
       },
       {
         name: 'email',
         logo: 'gmail',
-        href: 'mailto:nicolasgabrielctt@gmail.com',
+        href: 'mailto:randel.dev@hotmail.com',
       },
       {
         name: 'npm',
@@ -134,7 +101,7 @@ module.exports = {
         href: 'https://codepen.io/nick-gabe',
       },
       {
-        name: 'imnickgabe',
+        name: 'randel',
         logo: 'discord',
         labelColor: colors.secondary.base,
       },
