@@ -3,14 +3,14 @@
 <a href="https://linkedin.com/in/nickgabe"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
 <a href="https://nickgabe.vercel.app"><img src="https://img.shields.io/badge/website-4D4577?logo=esri&style=for-the-badge&logoColor=F2F2F2"/></a>
 <img src="https://komarev.com/ghpvc/?username=nick-gabe&style=for-the-badge&color=4D4577&logoColor=F2F2F2&logo=undefined"/></p>
-<p align="center">👋 Heyyy! I'm Nícolas Gabriel, a brazilian programmer.</p>
+<p align="center">👋 Heyyy! I'm Gustavo Randel, a brazilian programmer.</p>
 
 ## **About me:**
 
-* Nícolas Gabriel, 20 years
-* Full Stack programmer
-* Currently studying Python
-* 5 Years, 1 Month and 1 Day since I started programming
+* Born in Salvador, 19 years
+* Software Engineer
+* Currently studying Typescript
+* 12 months since I started programming
 
 ## **Skills wall:**
 
@@ -74,13 +74,3 @@
 <a href="https://www.npmjs.com/~nick-gabe"><img src="https://img.shields.io/badge/npm-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=npm"/></a>
 <a href="https://codepen.io/nick-gabe"><img src="https://img.shields.io/badge/codepen-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=codepen"/></a>
 <img src="https://img.shields.io/badge/imnickgabe-4D4577?logo=discord&labelColor=393359&style=for-the-badge&logoColor=F2F2F2"/></p>
-
-## **Follower of the day**
-
-*Showcases a random GitHub follower here everyday*
-
-<a href="https://github.com/fndomariano" alt="Fernando Mariano"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
-
-<hr>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=nick-gabe&style=for-the-badge&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&show_icons=true&icon_color=F2F2F2&rank_icon=github"/></p>
