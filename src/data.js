@@ -84,6 +84,10 @@ module.exports = {
     },
     links: [
       {
+        name: 'Instagram',
+        href: 'https://instagram.com/randeltheone',
+      },
+      {
         name: 'linkedin',
         href: 'https://linkedin.com/in/gustavo-randel',
       },
@@ -91,14 +95,6 @@ module.exports = {
         name: 'email',
         logo: 'gmail',
         href: 'mailto:randel.dev@hotmail.com',
-      },
-      {
-        name: 'npm',
-        href: 'https://www.npmjs.com/~nick-gabe',
-      },
-      {
-        name: 'codepen',
-        href: 'https://codepen.io/nick-gabe',
       },
       {
         name: 'randel',
