@@ -1,15 +1,7 @@
-<<<<<<< HEAD
-<p align="center"><img src="src/resources/images/nickgabe.png" width="600"/></p>
-<p align="center"><a href="https://twitter.com/imnickgabe"><img src="https://img.shields.io/badge/twitter-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=twitter"/></a>
-<a href="https://linkedin.com/in/nickgabe"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
-<a href="https://nickgabe.vercel.app"><img src="https://img.shields.io/badge/website-4D4577?logo=esri&style=for-the-badge&logoColor=F2F2F2"/></a>
-<img src="https://komarev.com/ghpvc/?username=nick-gabe&style=for-the-badge&color=4D4577&logoColor=F2F2F2&logo=undefined"/></p>
-=======
 <p align="center"><img /></p>
 <p align="center"><a href="https://linkedin.com/in/gustavo-randel"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
 <img src="https://img.shields.io/badge/website-4D4577?logo=esri&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://komarev.com/ghpvc/?username=gustavo-randel&style=for-the-badge&color=4D4577&logoColor=F2F2F2&logo=undefined"/></p>
->>>>>>> 9b4b0278ed12a86b80ada3b93e998d95bd21c2c8
 <p align="center">👋 Heyyy! I'm Gustavo Randel, a brazilian programmer.</p>
 
 ## **About me:**
@@ -17,34 +9,30 @@
 * Born in Salvador, 19 years
 * Software Engineer
 * Currently studying Typescript
-<<<<<<< HEAD
-* 12 months since I started programming
-=======
 * 0 Years, 11 Months and 8 Days since I started programming
->>>>>>> 9b4b0278ed12a86b80ada3b93e998d95bd21c2c8
 
 ## **Skills wall:**
 
-<p align="left"><img src="https://img.shields.io/badge/vite-4D4577?logo=vite&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/visual%20studio%20code-4D4577?logo=visual%20studio%20code&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/postgresql-393359?logo=postgresql&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/markdown-393359?logo=markdown&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/sass-393359?logo=sass&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/node.js-F73C7B?logo=node.js&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/javascript-F73C7B?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/typescript-F73C7B?logo=typescript&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/react%20native-4D4577?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/photoshop-4D4577?logo=adobe-photoshop&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/html5-4D4577?logo=html5&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/bootstrap-4D4577?logo=bootstrap&style=for-the-badge&logoColor=F2F2F2"/>
+<p align="left"><img src="https://img.shields.io/badge/node.js-F73C7B?logo=node.js&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/github-393359?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/npm-4D4577?logo=npm&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/react-F73C7B?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/git-F73C7B?logo=git&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/figma-4D4577?logo=figma&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/photoshop-393359?logo=adobe-photoshop&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/sass-4D4577?logo=sass&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/react%20native-4D4577?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/css3-F73C7B?logo=css3&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/markdown-393359?logo=markdown&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/react-F73C7B?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/vercel-4D4577?logo=vercel&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/github-4D4577?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/github%20pages-4D4577?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/figma-4D4577?logo=figma&style=for-the-badge&logoColor=F2F2F2"/></p>
+<img src="https://img.shields.io/badge/git-F73C7B?logo=git&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/html5-4D4577?logo=html5&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/visual%20studio%20code-393359?logo=visual%20studio%20code&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/postgresql-4D4577?logo=postgresql&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/vite-393359?logo=vite&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/bootstrap-393359?logo=bootstrap&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/typescript-F73C7B?logo=typescript&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/javascript-F73C7B?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/github%20pages-4D4577?logo=github&style=for-the-badge&logoColor=F2F2F2"/></p>
 
 ## **Recent projects:**
 
@@ -72,9 +60,6 @@
 <a href="mailto:randel.dev@hotmail.com"><img src="https://img.shields.io/badge/email-4D4577?logo=gmail&style=for-the-badge&logoColor=F2F2F2"/></a>
 <a href="https://www.npmjs.com/~nick-gabe"><img src="https://img.shields.io/badge/npm-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=npm"/></a>
 <a href="https://codepen.io/nick-gabe"><img src="https://img.shields.io/badge/codepen-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=codepen"/></a>
-<<<<<<< HEAD
-<img src="https://img.shields.io/badge/imnickgabe-4D4577?logo=discord&labelColor=393359&style=for-the-badge&logoColor=F2F2F2"/></p>
-=======
 <img src="https://img.shields.io/badge/randel-4D4577?logo=discord&labelColor=393359&style=for-the-badge&logoColor=F2F2F2"/></p>
 
 ## **Follower of the day**
@@ -87,3 +72,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=gustavo-randel&style=for-the-badge&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&show_icons=true&icon_color=F2F2F2&rank_icon=github"/></p>
 >>>>>>> 9b4b0278ed12a86b80ada3b93e998d95bd21c2c8
+
+<hr>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=gustavo-randel&style=for-the-badge&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&show_icons=true&icon_color=F2F2F2&rank_icon=github"/></p>
