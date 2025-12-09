@@ -13,45 +13,45 @@
 
 ## **Skills wall:**
 
-<p align="left"><img src="https://img.shields.io/badge/npm-4D4577?logo=npm&style=for-the-badge&logoColor=F2F2F2"/>
+<p align="left"><img src="https://img.shields.io/badge/postgresql-393359?logo=postgresql&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/bootstrap-393359?logo=bootstrap&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/markdown-4D4577?logo=markdown&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/react-F73C7B?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/git-F73C7B?logo=git&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/github%20pages-4D4577?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/html5-4D4577?logo=html5&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/figma-393359?logo=figma&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/sass-4D4577?logo=sass&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/javascript-F73C7B?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/visual%20studio%20code-4D4577?logo=visual%20studio%20code&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/node.js-F73C7B?logo=node.js&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/npm-4D4577?logo=npm&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/react%20native-4D4577?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/photoshop-4D4577?logo=adobe-photoshop&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/css3-F73C7B?logo=css3&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/vite-393359?logo=vite&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/typescript-F73C7B?logo=typescript&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/vercel-4D4577?logo=vercel&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/git-F73C7B?logo=git&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/html5-393359?logo=html5&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/github-4D4577?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/figma-393359?logo=figma&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/bootstrap-393359?logo=bootstrap&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/github%20pages-4D4577?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/postgresql-393359?logo=postgresql&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/node.js-F73C7B?logo=node.js&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/markdown-393359?logo=markdown&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/css3-F73C7B?logo=css3&style=for-the-badge&logoColor=F2F2F2"/></p>
+<img src="https://img.shields.io/badge/vercel-393359?logo=vercel&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/visual%20studio%20code-4D4577?logo=visual%20studio%20code&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/github-393359?logo=github&style=for-the-badge&logoColor=F2F2F2"/></p>
 
 ## **Recent projects:**
 
-<a href="https://github.com/gustavo-randel/gustavo-randel"><img src="https://github-readme-stats-gustavo-randel.vercel.app/" height="100"/></a>
-<a href="https://github.com/gustavo-randel/github-readme-stats"><img src="https://github-readme-stats-gustavo-randel.vercel.app/" height="100"/></a>
-<a href="https://github.com/gustavo-randel/readme-antigo"><img src="https://github-readme-stats-gustavo-randel.vercel.app/" height="100"/></a>
-<a href="https://github.com/gustavo-randel/biblioteca-java"><img src="https://github-readme-stats-gustavo-randel.vercel.app/" height="100"/></a>
-<a href="https://github.com/gustavo-randel/landing-page-evento"><img src="https://github-readme-stats-gustavo-randel.vercel.app/" height="100"/></a>
-<a href="https://github.com/gustavo-randel/biblioteca-javascript"><img src="https://github-readme-stats-gustavo-randel.vercel.app/" height="100"/></a>
-<a href="https://github.com/gustavo-randel/azinho-joke"><img src="https://github-readme-stats-gustavo-randel.vercel.app/" height="100"/></a>
-<a href="https://github.com/gustavo-randel/rede-social-dev-prototipo"><img src="https://github-readme-stats-gustavo-randel.vercel.app/" height="100"/></a>
-<a href="https://github.com/gustavo-randel/prototipo-cruzeiro-bootstrap"><img src="https://github-readme-stats-gustavo-randel.vercel.app/" height="100"/></a>
-<a href="https://github.com/gustavo-randel/projeto-portifolio-italo"><img src="https://github-readme-stats-gustavo-randel.vercel.app/" height="100"/></a>
-<a href="https://github.com/gustavo-randel/restaurante-inaja-prototipo"><img src="https://github-readme-stats-gustavo-randel.vercel.app/" height="100"/></a>
-<a href="https://github.com/gustavo-randel/projeto-android"><img src="https://github-readme-stats-gustavo-randel.vercel.app/" height="100"/></a>
-<a href="https://github.com/gustavo-randel/projeto-cordel"><img src="https://github-readme-stats-gustavo-randel.vercel.app/" height="100"/></a>
-<a href="https://github.com/gustavo-randel/projeto-redes-sociais"><img src="https://github-readme-stats-gustavo-randel.vercel.app/" height="100"/></a>
-<a href="https://github.com/gustavo-randel/Calculadora"><img src="https://github-readme-stats-gustavo-randel.vercel.app/" height="100"/></a>
-<a href="https://github.com/gustavo-randel/SafeTour"><img src="https://github-readme-stats-gustavo-randel.vercel.app/" height="100"/></a>
+<a href="https://github.com/gustavo-randel/gustavo-randel"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=gustavo-randel&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/gustavo-randel/github-readme-stats"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=github-readme-stats&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/gustavo-randel/readme-antigo"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=readme-antigo&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/gustavo-randel/biblioteca-java"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=biblioteca-java&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/gustavo-randel/landing-page-evento"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=landing-page-evento&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/gustavo-randel/biblioteca-javascript"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=biblioteca-javascript&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/gustavo-randel/azinho-joke"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=azinho-joke&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/gustavo-randel/rede-social-dev-prototipo"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=rede-social-dev-prototipo&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/gustavo-randel/prototipo-cruzeiro-bootstrap"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=prototipo-cruzeiro-bootstrap&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/gustavo-randel/projeto-portifolio-italo"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=projeto-portifolio-italo&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/gustavo-randel/restaurante-inaja-prototipo"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=restaurante-inaja-prototipo&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/gustavo-randel/projeto-android"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=projeto-android&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/gustavo-randel/projeto-cordel"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=projeto-cordel&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/gustavo-randel/projeto-redes-sociais"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=projeto-redes-sociais&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/gustavo-randel/Calculadora"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=Calculadora&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/gustavo-randel/SafeTour"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=SafeTour&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 
 ## **You can find me on:**
 
@@ -66,8 +66,8 @@
 
 *Showcases a random GitHub follower here everyday*
 
-<a href="https://github.com/Henrique-Maadu" alt="PastelMaster"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+<a href="https://github.com/Uchoacode" alt="Rian Uchôa"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
 
 <hr>
 
-<p align="center"><img src="https://github-readme-stats-gustavo-randel.vercel.app/"/></p>
+<p align="center"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/?username=gustavo-randel&style=for-the-badge&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&show_icons=true&icon_color=F2F2F2&rank_icon=github"/></p>
