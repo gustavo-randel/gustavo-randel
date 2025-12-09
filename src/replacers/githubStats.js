@@ -6,7 +6,7 @@ module.exports = function (data) {
   const query = queryFromObject(styles);
 
   const stats = generateElement('img', {
-    src: `https://github-readme-stats-gustavo-randel.vercel.app/`,
+    src: `https://github-readme-stats-gustavo-randel.vercel.app/api/?username=${data.user}&${query}`,
   });
 
   return generateElement('p', {

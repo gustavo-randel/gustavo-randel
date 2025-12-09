@@ -5,7 +5,7 @@ function gitHubRepositoryStats({ user, href, ...properties }) {
   const query = queryFromObject(properties);
 
   const stats = generateElement('img', {
-    src: `https://github-readme-stats-gustavo-randel.vercel.app/`,
+    src: `https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=${user}&${query}`,
     height: 100,
   });
 
