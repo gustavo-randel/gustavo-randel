@@ -1,8 +1,8 @@
+<p align="center">👋 Heyyy! I'm Gustavo Randel, a brazilian programmer.</p> </br>
 <p align="center"><img /></p>
 <p align="center"><a href="https://linkedin.com/in/gustavo-randel"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
 <img src="https://img.shields.io/badge/website-4D4577?logo=esri&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://komarev.com/ghpvc/?username=gustavo-randel&style=for-the-badge&color=4D4577&logoColor=F2F2F2&logo=undefined"/></p>
-<p align="center">👋 Heyyy! I'm Gustavo Randel, a brazilian programmer.</p>
 
 ## **About me:**
 
