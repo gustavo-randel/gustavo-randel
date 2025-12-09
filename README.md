@@ -76,3 +76,14 @@
 <img src="https://img.shields.io/badge/imnickgabe-4D4577?logo=discord&labelColor=393359&style=for-the-badge&logoColor=F2F2F2"/></p>
 =======
 <img src="https://img.shields.io/badge/randel-4D4577?logo=discord&labelColor=393359&style=for-the-badge&logoColor=F2F2F2"/></p>
+
+## **Follower of the day**
+
+*Showcases a random GitHub follower here everyday*
+
+<a href="https://github.com/enzocaldas10" alt="null"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+
+<hr>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/?username=gustavo-randel&style=for-the-badge&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&show_icons=true&icon_color=F2F2F2&rank_icon=github"/></p>
+>>>>>>> 9b4b0278ed12a86b80ada3b93e998d95bd21c2c8
