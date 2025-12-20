@@ -55,7 +55,6 @@ module.exports = {
       { name: 'Bootstrap', isHighlighted: true },
       { name: 'NPM' },
       // { name: 'Node.JS', isHighlighted: true },
-      {name: 'Intellij IDEA'},
       {name: 'Java'},
       { name: 'Vercel' },
       { name: 'Github Pages', logo: 'github' },
@@ -63,8 +62,6 @@ module.exports = {
       { name: 'Git', isHighlighted: true },
       { name: 'Figma', isHighlighted: true },
       { name: 'Photoshop', logo: 'adobe-photoshop' },
-      {name: 'After Effects', logo: 'adobe-after-effects'},
-      { name: 'Visual Studio Code' },
       {name: 'PostgreSQL', isHighlighted: true}
     ],
   },
