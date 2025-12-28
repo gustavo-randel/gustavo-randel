@@ -9,26 +9,26 @@
 * Born in Salvador, 19 years
 * Software Engineer
 * Currently studying Typescript
-* 0 Years, 9 Months and 17 Days since I started programming
+* 0 Years, 9 Months and 18 Days since I started programming
 
 ## **Skills wall:**
 
-<p align="left"><img src="https://img.shields.io/badge/npm-393359?logo=npm&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/sass-4D4577?logo=sass&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/photoshop-393359?logo=adobe-photoshop&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/vercel-4D4577?logo=vercel&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/github-4D4577?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/postgresql-F73C7B?logo=postgresql&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/github%20pages-393359?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/java-4D4577?logo=java&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/typescript-F73C7B?logo=typescript&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/vite-393359?logo=vite&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/figma-F73C7B?logo=figma&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/bootstrap-F73C7B?logo=bootstrap&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/css3-393359?logo=css3&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/html5-4D4577?logo=html5&style=for-the-badge&logoColor=F2F2F2"/>
+<p align="left"><img src="https://img.shields.io/badge/bootstrap-F73C7B?logo=bootstrap&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/npm-393359?logo=npm&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/javascript-F73C7B?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/git-F73C7B?logo=git&style=for-the-badge&logoColor=F2F2F2"/></p>
+<img src="https://img.shields.io/badge/html5-393359?logo=html5&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/github-4D4577?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/css3-393359?logo=css3&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/figma-F73C7B?logo=figma&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/postgresql-F73C7B?logo=postgresql&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/vite-4D4577?logo=vite&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/typescript-F73C7B?logo=typescript&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/git-F73C7B?logo=git&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/photoshop-4D4577?logo=adobe-photoshop&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/vercel-4D4577?logo=vercel&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/sass-4D4577?logo=sass&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/github%20pages-4D4577?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/java-393359?logo=java&style=for-the-badge&logoColor=F2F2F2"/></p>
 
 ## **Recent projects:**
 
@@ -41,7 +41,6 @@
 <a href="https://github.com/gustavo-randel/projeto-portifolio-italo"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=projeto-portifolio-italo&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/gustavo-randel/github-readme-stats"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=github-readme-stats&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/gustavo-randel/biblioteca-javascript"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=biblioteca-javascript&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
-<a href="https://github.com/gustavo-randel/azinho-joke"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=azinho-joke&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/gustavo-randel/restaurante-inaja-prototipo"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=restaurante-inaja-prototipo&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/gustavo-randel/projeto-android"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=projeto-android&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/gustavo-randel/projeto-cordel"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=projeto-cordel&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
@@ -62,7 +61,7 @@
 
 *Showcases a random GitHub follower here everyday*
 
-<a href="https://github.com/enzocaldas10" alt="null"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+<a href="https://github.com/4lgu3m-071" alt="Marcelo Livros"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
 
 <hr>
 
