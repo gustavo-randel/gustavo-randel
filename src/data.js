@@ -49,7 +49,7 @@ module.exports = {
       { name: 'TypeScript', isHighlighted: true },
       { name: 'HTML5' },
       { name: 'CSS3'},
-      // { name: 'React', isHighlighted: true },
+      { name: 'React', isHighlighted: true },
       // { name: 'React Native', logo: 'react' }, 
       { name: 'SASS' },
       { name: 'Bootstrap', isHighlighted: true },
