@@ -33,7 +33,7 @@ module.exports = {
     ],
   },
   aboutme: {
-    list: ['* Born in Salvador, 19 years', '* Software Engineer', '* Currently studying Typescript'],
+    list: ['* Born in Salvador, 19 years', '* Software Engineer', '* Currently studying Spring Boot'],
   },
   skillswall: {
     styles: {
