@@ -6,7 +6,7 @@ const { colors } = require('./theme');
 module.exports = {
   user: 'gustavo-randel',
   startedProgramming: '11/02/2025',
-  repoQuantity: 18,
+  repoQuantity: 5,
   header: {
     styles: {
       align: 'center',
@@ -56,6 +56,7 @@ module.exports = {
       { name: 'NPM' },
       // { name: 'Node.JS', isHighlighted: true },
       {name: 'Java'},
+      {name: 'Spring Boot'},
       { name: 'Vercel' },
       { name: 'Github Pages', logo: 'github' },
       { name: 'GitHub' },
