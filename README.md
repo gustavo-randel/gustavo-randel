@@ -9,27 +9,27 @@
 * Born in Salvador, 19 years
 * Software Engineer
 * Currently studying Spring Boot
-* 1 Year, 2 Months and 16 Days since I started programming
+* 1 Year, 2 Months and 17 Days since I started programming
 
 ## **Skills wall:**
 
-<p align="left"><img src="https://img.shields.io/badge/html5-372c77?logo=html5&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/sass-372c77?logo=sass&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/postgresql-3c5ef7?logo=postgresql&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/javascript-3c5ef7?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/photoshop-4D4577?logo=adobe-photoshop&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/react-3c5ef7?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
+<p align="left"><img src="https://img.shields.io/badge/javascript-3c5ef7?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/vite-372c77?logo=vite&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/css3-372c77?logo=css3&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/github%20pages-4D4577?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/spring%20boot-4D4577?logo=spring%20boot&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/github-372c77?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/github-4D4577?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/vercel-4D4577?logo=vercel&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/spring%20boot-372c77?logo=spring%20boot&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/npm-4D4577?logo=npm&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/typescript-3c5ef7?logo=typescript&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/photoshop-4D4577?logo=adobe-photoshop&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/sass-4D4577?logo=sass&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/html5-372c77?logo=html5&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/bootstrap-3c5ef7?logo=bootstrap&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/figma-3c5ef7?logo=figma&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/vercel-372c77?logo=vercel&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/java-372c77?logo=java&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/npm-372c77?logo=npm&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/github%20pages-372c77?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/react-3c5ef7?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/postgresql-3c5ef7?logo=postgresql&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/java-4D4577?logo=java&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/css3-372c77?logo=css3&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/git-3c5ef7?logo=git&style=for-the-badge&logoColor=F2F2F2"/></p>
 
 ## **Recent projects:**
@@ -53,7 +53,7 @@
 
 *Showcases a random GitHub follower here everyday*
 
-<a href="https://github.com/9cs" alt="Dantton Lavigne"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
+<a href="https://github.com/joaogallindo-dev" alt="João Galindo"><img style="height:150px;" src=./src/resources/images/randomFollower.png alt="Follower of the day"/></a>
 
 <hr>
 
