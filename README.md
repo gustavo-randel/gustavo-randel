@@ -9,33 +9,33 @@
 * Born in Salvador, 19 years
 * Software Engineer
 * Currently studying Spring Boot
-* 1 Year, 3 Months and 14 Days since I started programming
+* 1 Year, 3 Months and 15 Days since I started programming
 
 ## **Skills wall:**
 
-<p align="left"><img src="https://img.shields.io/badge/git-3c5ef7?logo=git&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/java-4D4577?logo=java&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/postgresql-3c5ef7?logo=postgresql&style=for-the-badge&logoColor=F2F2F2"/>
+<p align="left"><img src="https://img.shields.io/badge/java-4D4577?logo=java&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/github-4D4577?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/photoshop-4D4577?logo=adobe-photoshop&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/javascript-3c5ef7?logo=javascript&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/spring%20boot-372c77?logo=spring%20boot&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/figma-3c5ef7?logo=figma&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/sass-372c77?logo=sass&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/npm-372c77?logo=npm&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/css3-372c77?logo=css3&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/vercel-372c77?logo=vercel&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/vite-372c77?logo=vite&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/react-3c5ef7?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/github%20pages-372c77?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/typescript-3c5ef7?logo=typescript&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/bootstrap-3c5ef7?logo=bootstrap&style=for-the-badge&logoColor=F2F2F2"/>
-<img src="https://img.shields.io/badge/html5-4D4577?logo=html5&style=for-the-badge&logoColor=F2F2F2"/></p>
+<img src="https://img.shields.io/badge/spring%20boot-372c77?logo=spring%20boot&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/typescript-3c5ef7?logo=typescript&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/vercel-372c77?logo=vercel&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/html5-372c77?logo=html5&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/git-3c5ef7?logo=git&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/npm-4D4577?logo=npm&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/sass-372c77?logo=sass&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/github%20pages-4D4577?logo=github&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/figma-3c5ef7?logo=figma&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/css3-4D4577?logo=css3&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/postgresql-3c5ef7?logo=postgresql&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/vite-4D4577?logo=vite&style=for-the-badge&logoColor=F2F2F2"/>
+<img src="https://img.shields.io/badge/react-3c5ef7?logo=react&style=for-the-badge&logoColor=F2F2F2"/></p>
 
 ## **Recent projects:**
 
-<a href="https://github.com/gustavo-randel/spring-java-rest-api"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=spring-java-rest-api&title_color=3c5ef7&text_color=F2F2F2&bg_color=372c77&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/gustavo-randel/gustavo-randel"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=gustavo-randel&title_color=3c5ef7&text_color=F2F2F2&bg_color=372c77&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://github.com/gustavo-randel/spring-java-rest-api"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=spring-java-rest-api&title_color=3c5ef7&text_color=F2F2F2&bg_color=372c77&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/gustavo-randel/lista-de-afazeres"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=lista-de-afazeres&title_color=3c5ef7&text_color=F2F2F2&bg_color=372c77&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/gustavo-randel/gerador-de-senhas"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=gerador-de-senhas&title_color=3c5ef7&text_color=F2F2F2&bg_color=372c77&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
 <a href="https://github.com/gustavo-randel/restaurante-inaja-prototipo"><img src="https://github-readme-stats-gustavo-randel.vercel.app/api/pin/?username=gustavo-randel&repo=restaurante-inaja-prototipo&title_color=3c5ef7&text_color=F2F2F2&bg_color=372c77&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
